@@ -1,0 +1,102 @@
+{
+  "dessert": {
+    "height": 2100,
+    "width": 1400
+  },
+  "table": {
+    "height": 933,
+    "width": 1400
+  },
+  "plate": {
+    "height": 933,
+    "width": 1400
+  },
+  "breakfast": {
+    "height": 933,
+    "width": 1400
+  },
+  "interior": {
+    "height": 1050,
+    "width": 1400
+  },
+  "coffee": {
+    "height": 933,
+    "width": 1400
+  },
+  "food": {
+    "height": 933,
+    "width": 1400
+  },
+  "window": {
+    "height": 933,
+    "width": 1400
+  },
+  "dining": {
+    "height": 933,
+    "width": 1400
+  },
+  "mist": {
+    "height": 932,
+    "width": 1400
+  },
+  "video-poster": {
+    "height": 1013,
+    "width": 1920
+  },
+  "balcon": {
+    "height": 933,
+    "width": 1400
+  },
+  "detail": {
+    "height": 1400,
+    "width": 1400
+  },
+  "restaurant": {
+    "height": 933,
+    "width": 1400
+  },
+  "wood": {
+    "height": 933,
+    "width": 1400
+  },
+  "moieciu": {
+    "height": 1440,
+    "width": 1920
+  },
+  "room": {
+    "height": 1050,
+    "width": 1400
+  },
+  "lounge": {
+    "height": 952,
+    "width": 1400
+  },
+  "trees": {
+    "height": 966,
+    "width": 1400
+  },
+  "deluxe": {
+    "height": 933,
+    "width": 1400
+  },
+  "forest": {
+    "height": 1280,
+    "width": 1920
+  },
+  "bed": {
+    "height": 933,
+    "width": 1400
+  },
+  "standard": {
+    "height": 933,
+    "width": 1400
+  },
+  "hotel-exterior": {
+    "width": 1672,
+    "height": 941
+  },
+  "hotel-exterior-4-etaje": {
+    "width": 1672,
+    "height": 941
+  }
+}
